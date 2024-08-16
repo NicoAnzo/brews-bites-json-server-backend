@@ -2,21 +2,139 @@
   "products": [
     {
       "id": 1,
-      "title": "Nico",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Espresso",
+      "quantity": 350,
+      "price": 3.50,
+      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
+      "category": "hot_drinks"
     },
     {
       "id": 2,
-      "title": "Cinthia",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "name": "Americano",
+      "quantity": 130,
+      "price": 4,
+      "description": "An Americano is a popular coffee shop beverage that combines water and espresso. Espresso is mixed with hot water rather than having water poured over the espresso to prevent over-extraction. This is a great espresso alternative for those who find the pure form too intense. Americanos are traditionally served black, but you can always ask your customers if they want to add milk. Also, an iced Americano is a refreshing option for a summertime beverage.",
+      "category": "hot_drinks"
     },
     {
-      "title": "Test 1",
-      "description": "abc",
-      "userId": 1,
-      "id": 3
+      "id": 3,
+      "name": "Latte",
+      "quantity": 180,
+      "price": 4.50,
+      "description": "Another espresso-based beverage that has gained worldwide popularity is the latte. Latte is an Italian word that translates to coffee and milk. It is often compared to cappuccino, but the main difference between a latte and a cappuccino is that the latte is made with more steamed milk and topped with only a thin layer of foam. This popular coffee drink is an excellent option for customers who want coffee but don't want anything too intense.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 4,
+      "name": "Cappuccino",
+      "quantity": 200,
+      "price": 4.20,
+      "description": "A cappuccino is an espresso-based drink that is among the most popular coffee drinks you will find in a cafe. This tasty beverage consists of espresso and steamed milk. To make it even more decadent, you can substitute foamed cream for the milk in the basic recipe. Other possible additions include syrups, cocoa powder, and spices. Serve the drink in a cappuccino cup, top it with latte art, and your customers will surely cherish your brew!",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 5,
+      "name": "Cafe au Lait",
+      "quantity": 300,
+      "price": 4.10,
+      "description": "France is the birthplace of the cafe au lait, a popular coffee drink with milk. A traditional cafe au lait consists of a cup of coffee brewed in a French press and a cup of steamed milk. Traditionally, no milk foam is added to the brew, but some coffee shops add a very thin layer for texture. A cafe au lait contains less caffeine than a latte and has a milder coffee flavor.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 6,
+      "name": "Mocha",
+      "quantity": 180,
+      "price": 3.90,
+      "description": "Also known as a mocha latte, this common coffee drink combines espresso, steamed milk, chocolate syrup, and milk foam. You can also add whipped cream on top for a nice touch. Finally, dust the top with a little bit of cocoa powder, and let your customers have a delicious, chocolatey coffee drink!",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 7,
+      "name": "Macchiato",
+      "quantity": 210,
+      "price": 4.10,
+      "description": "Caffe macchiato literally means 'stained coffee' or 'marked coffee' because the Italian word macchiato means 'stained' or 'spotted'. You can make a classic macchiato with espresso, a splash of steamed milk, and a very thin layer of milk foam. A macchiato is more robust than a latte because it only contains a small amount of milk. If you have customers who like strong espresso but also enjoy the creamy flavor of steamed milk, this popular coffee shop brew is for them.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 8,
+      "name": "Affogato",
+      "quantity": 170,
+      "price": 4.30,
+      "description": "What can be made when espresso and vanilla ice cream are combined? Obviously, an affogato! The affogato combines the best of Italian coffee with the sweetness and creaminess of a dessert drink. This popular coffee drink is made by pouring hot espresso over vanilla ice cream. You can make affogatos even better by topping them with tasty treats like mint leaves, chocolate or caramel sauce, cookie crumble, and sprinkles!",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 9,
+      "name": "Hot Chocolate",
+      "quantity": 250,
+      "price": 4.70,
+      "description": "Offering hot chocolate to customers needing a warm, comforting drink is a surefire way to make a sale during the cold months! Hot chocolate is a simple cafe drink that is made with milk and any chocolate product. If you want to make the drink look fancier, sprinkle some chocolate powder and whipped cream on top.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 10,
+      "name": "Hot Tea",
+      "quantity": 330,
+      "price": 3,
+      "description": "One of the most popular non-coffee beverage options is tea. Your coffee shop can offer different types of tea, such as black tea, green tea, and oolong. Adding green tea lattes and other specialty tea drinks like chai and matcha would significantly broaden your customer base and increase sales!",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 11,
+      "name": "Herbal Tea",
+      "quantity": 350,
+      "price": 3.70,
+      "description": "Herbal teas are an excellent add-on for the health-conscious customers you may have. Herbal teas are popular not only due to their delicious taste but also due to their enticing aroma. Additionally, many people consume them for the purported health advantages they provide. For your coffee shops drink menu, consider chamomile, ginger, barley, or peppermint tea.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 12,
+      "name": "Cold Brew",
+      "quantity": 250,
+      "price": 3.80,
+      "description": "Cold brew coffee is a refreshing beverage made by soaking freshly ground coffee in cold water for at least 12 hours. This common coffee drink tastes great hot or cold because it is silky smooth, has low acidity, and has a lot of caffeine. It's great with milk, on its own, or as a base to make other specialty coffee drinks.",
+      "category": "cold_drinks"
+    },
+    {
+      "id": 13,
+      "name": "Frappe",
+      "quantity": 300,
+      "price": 4,
+      "description": "A frappe is a deliciously foamy and refreshing iced coffee shop drink. It is made by combining water, espresso, sugar, milk, and ice in a blender. In most cafes, frappes are prepared by blending ice and other ingredients in a blender, but the method used may vary. Frappes come in a dizzying array of flavors, from fruit to caramel and beyond.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 14,
+      "name": "Espresso",
+      "quantity": 150,
+      "price": 3.50,
+      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 15,
+      "name": "Espresso",
+      "quantity": 150,
+      "price": 3.50,
+      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 16,
+      "name": "Espresso",
+      "quantity": 150,
+      "price": 3.50,
+      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
+      "category": "hot_drinks"
+    },
+    {
+      "id": 17,
+      "name": "Espresso",
+      "quantity": 150,
+      "price": 3.50,
+      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
+      "category": "hot_drinks"
     }
   ]
 }
