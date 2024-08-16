@@ -1,140 +1,804 @@
 {
   "products": [
-    {
-      "id": 1,
-      "name": "Espresso",
-      "quantity": 350,
-      "price": 3.50,
-      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 2,
-      "name": "Americano",
-      "quantity": 130,
-      "price": 4,
-      "description": "An Americano is a popular coffee shop beverage that combines water and espresso. Espresso is mixed with hot water rather than having water poured over the espresso to prevent over-extraction. This is a great espresso alternative for those who find the pure form too intense. Americanos are traditionally served black, but you can always ask your customers if they want to add milk. Also, an iced Americano is a refreshing option for a summertime beverage.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 3,
-      "name": "Latte",
-      "quantity": 180,
-      "price": 4.50,
-      "description": "Another espresso-based beverage that has gained worldwide popularity is the latte. Latte is an Italian word that translates to coffee and milk. It is often compared to cappuccino, but the main difference between a latte and a cappuccino is that the latte is made with more steamed milk and topped with only a thin layer of foam. This popular coffee drink is an excellent option for customers who want coffee but don't want anything too intense.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 4,
-      "name": "Cappuccino",
-      "quantity": 200,
-      "price": 4.20,
-      "description": "A cappuccino is an espresso-based drink that is among the most popular coffee drinks you will find in a cafe. This tasty beverage consists of espresso and steamed milk. To make it even more decadent, you can substitute foamed cream for the milk in the basic recipe. Other possible additions include syrups, cocoa powder, and spices. Serve the drink in a cappuccino cup, top it with latte art, and your customers will surely cherish your brew!",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 5,
-      "name": "Cafe au Lait",
-      "quantity": 300,
-      "price": 4.10,
-      "description": "France is the birthplace of the cafe au lait, a popular coffee drink with milk. A traditional cafe au lait consists of a cup of coffee brewed in a French press and a cup of steamed milk. Traditionally, no milk foam is added to the brew, but some coffee shops add a very thin layer for texture. A cafe au lait contains less caffeine than a latte and has a milder coffee flavor.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 6,
-      "name": "Mocha",
-      "quantity": 180,
-      "price": 3.90,
-      "description": "Also known as a mocha latte, this common coffee drink combines espresso, steamed milk, chocolate syrup, and milk foam. You can also add whipped cream on top for a nice touch. Finally, dust the top with a little bit of cocoa powder, and let your customers have a delicious, chocolatey coffee drink!",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 7,
-      "name": "Macchiato",
-      "quantity": 210,
-      "price": 4.10,
-      "description": "Caffe macchiato literally means 'stained coffee' or 'marked coffee' because the Italian word macchiato means 'stained' or 'spotted'. You can make a classic macchiato with espresso, a splash of steamed milk, and a very thin layer of milk foam. A macchiato is more robust than a latte because it only contains a small amount of milk. If you have customers who like strong espresso but also enjoy the creamy flavor of steamed milk, this popular coffee shop brew is for them.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 8,
-      "name": "Affogato",
-      "quantity": 170,
-      "price": 4.30,
-      "description": "What can be made when espresso and vanilla ice cream are combined? Obviously, an affogato! The affogato combines the best of Italian coffee with the sweetness and creaminess of a dessert drink. This popular coffee drink is made by pouring hot espresso over vanilla ice cream. You can make affogatos even better by topping them with tasty treats like mint leaves, chocolate or caramel sauce, cookie crumble, and sprinkles!",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 9,
-      "name": "Hot Chocolate",
-      "quantity": 250,
-      "price": 4.70,
-      "description": "Offering hot chocolate to customers needing a warm, comforting drink is a surefire way to make a sale during the cold months! Hot chocolate is a simple cafe drink that is made with milk and any chocolate product. If you want to make the drink look fancier, sprinkle some chocolate powder and whipped cream on top.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 10,
-      "name": "Hot Tea",
-      "quantity": 330,
-      "price": 3,
-      "description": "One of the most popular non-coffee beverage options is tea. Your coffee shop can offer different types of tea, such as black tea, green tea, and oolong. Adding green tea lattes and other specialty tea drinks like chai and matcha would significantly broaden your customer base and increase sales!",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 11,
-      "name": "Herbal Tea",
-      "quantity": 350,
-      "price": 3.70,
-      "description": "Herbal teas are an excellent add-on for the health-conscious customers you may have. Herbal teas are popular not only due to their delicious taste but also due to their enticing aroma. Additionally, many people consume them for the purported health advantages they provide. For your coffee shops drink menu, consider chamomile, ginger, barley, or peppermint tea.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 12,
-      "name": "Cold Brew",
-      "quantity": 250,
-      "price": 3.80,
-      "description": "Cold brew coffee is a refreshing beverage made by soaking freshly ground coffee in cold water for at least 12 hours. This common coffee drink tastes great hot or cold because it is silky smooth, has low acidity, and has a lot of caffeine. It's great with milk, on its own, or as a base to make other specialty coffee drinks.",
-      "category": "cold_drinks"
-    },
-    {
-      "id": 13,
-      "name": "Frappe",
-      "quantity": 300,
-      "price": 4,
-      "description": "A frappe is a deliciously foamy and refreshing iced coffee shop drink. It is made by combining water, espresso, sugar, milk, and ice in a blender. In most cafes, frappes are prepared by blending ice and other ingredients in a blender, but the method used may vary. Frappes come in a dizzying array of flavors, from fruit to caramel and beyond.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 14,
-      "name": "Espresso",
-      "quantity": 150,
-      "price": 3.50,
-      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 15,
-      "name": "Espresso",
-      "quantity": 150,
-      "price": 3.50,
-      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 16,
-      "name": "Espresso",
-      "quantity": 150,
-      "price": 3.50,
-      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
-      "category": "hot_drinks"
-    },
-    {
-      "id": 17,
-      "name": "Espresso",
-      "quantity": 150,
-      "price": 3.50,
-      "description": "Espresso is by far the most common coffee drink. Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans. Making espresso yields a single or double shot that is aromatic, potent, flavorful, and caffeinated. The crema that forms on top of the espresso is the crowning touch.",
-      "category": "hot_drinks"
-    }
+      {
+        "id": 1,
+        "name": "Espresso",
+        "quantity": 320,
+        "price": 3.50,
+        "description": "Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 2,
+        "name": "Americano",
+        "quantity": 130,
+        "price": 4.00,
+        "description": "Americano is made by mixing espresso with hot water, offering a milder flavor compared to pure espresso.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 3,
+        "name": "Latte",
+        "quantity": 180,
+        "price": 4.50,
+        "description": "Latte is a coffee drink made with espresso and steamed milk, offering a creamy and mild flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 4,
+        "name": "Cappuccino",
+        "quantity": 200,
+        "price": 4.20,
+        "description": "A cappuccino consists of equal parts espresso, steamed milk, and milk foam, often topped with cocoa powder.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 5,
+        "name": "Café au Lait",
+        "quantity": 300,
+        "price": 4.10,
+        "description": "Café au Lait is made with brewed coffee and steamed milk, offering a smooth and mild flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 6,
+        "name": "Mocha",
+        "quantity": 180,
+        "price": 3.90,
+        "description": "Mocha combines espresso, steamed milk, and chocolate syrup, topped with milk foam or whipped cream.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 7,
+        "name": "Macchiato",
+        "quantity": 210,
+        "price": 4.10,
+        "description": "Macchiato is made with espresso and a small amount of steamed milk, offering a strong and creamy flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 8,
+        "name": "Affogato",
+        "quantity": 170,
+        "price": 4.30,
+        "description": "Affogato is made by pouring hot espresso over vanilla ice cream, creating a delicious dessert drink.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 9,
+        "name": "Hot Chocolate",
+        "quantity": 250,
+        "price": 4.70,
+        "description": "Hot Chocolate is made with steamed milk and chocolate, topped with whipped cream and chocolate sprinkles.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 10,
+        "name": "Hot Tea",
+        "quantity": 330,
+        "price": 3.00,
+        "description": "Hot Tea is available in a variety of flavors, including black, green, and herbal options.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 11,
+        "name": "Herbal Tea",
+        "quantity": 350,
+        "price": 3.70,
+        "description": "Herbal Tea offers a range of soothing flavors such as chamomile, peppermint, and ginger.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 12,
+        "name": "Flat White",
+        "quantity": 200,
+        "price": 4.40,
+        "description": "Flat White is made with espresso and microfoam, offering a rich, velvety texture.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 13,
+        "name": "Irish Coffee",
+        "quantity": 100,
+        "price": 5.00,
+        "description": "Irish Coffee is a cocktail made with hot coffee, Irish whiskey, sugar, and topped with cream.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 14,
+        "name": "Ristretto",
+        "quantity": 240,
+        "price": 3.50,
+        "description": "Ristretto is a short shot of espresso made with less water, offering a sweeter and more intense flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 15,
+        "name": "Cortado",
+        "quantity": 230,
+        "price": 4.00,
+        "description": "Cortado is a beverage made with equal parts espresso and warm milk, reducing acidity and enhancing the coffee's flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 16,
+        "name": "Turkish Coffee",
+        "quantity": 120,
+        "price": 4.10,
+        "description": "Turkish Coffee is a strong, thick coffee made by boiling finely ground coffee beans in water and sugar.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 17,
+        "name": "Vienna Coffee",
+        "quantity": 140,
+        "price": 4.60,
+        "description": "Vienna Coffee is made with strong black coffee and whipped cream, offering a rich and creamy experience.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 18,
+        "name": "Espresso Con Panna",
+        "quantity": 160,
+        "price": 3.80,
+        "description": "Espresso Con Panna is a shot of espresso topped with a dollop of whipped cream, balancing the strong coffee with creamy sweetness.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 19,
+        "name": "Caramel Macchiato",
+        "quantity": 150,
+        "price": 4.50,
+        "description": "Caramel Macchiato is made with espresso, steamed milk, and caramel syrup, topped with milk foam and caramel drizzle.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 20,
+        "name": "Matcha Latte",
+        "quantity": 190,
+        "price": 4.80,
+        "description": "Matcha Latte is made with matcha green tea powder, steamed milk, and a touch of sweetener, offering a vibrant and earthy flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 21,
+        "name": "Chai Latte",
+        "quantity": 210,
+        "price": 4.40,
+        "description": "Chai Latte is made with spiced tea concentrate and steamed milk, offering a warm and spicy flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 22,
+        "name": "Café Bombón",
+        "quantity": 130,
+        "price": 4.70,
+        "description": "Café Bombón is a Spanish coffee drink made with espresso and sweetened condensed milk, creating a rich and sweet flavor.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 23,
+        "name": "Doppio",
+        "quantity": 180,
+        "price": 3.90,
+        "description": "Doppio is a double shot of espresso, offering a stronger and more intense coffee experience.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 24,
+        "name": "Red Eye",
+        "quantity": 170,
+        "price": 4.20,
+        "description": "Red Eye is a coffee drink made by combining a shot of espresso with brewed coffee, offering an extra caffeine kick.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 25,
+        "name": "Mocha Macchiato",
+        "quantity": 160,
+        "price": 4.70,
+        "description": "Mocha Macchiato is made with espresso, steamed milk, and chocolate syrup, topped with milk foam and a drizzle of chocolate.",
+        "category": "hot_drinks"
+      },
+      {
+        "id": 26,
+        "name": "Cold Brew",
+        "quantity": 250,
+        "price": 3.80,
+        "description": "Cold brew coffee is made by steeping coarsely ground coffee beans in cold water for an extended period, resulting in a smooth, less acidic beverage.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 27,
+        "name": "Iced Latte",
+        "quantity": 220,
+        "price": 4.20,
+        "description": "Iced Latte is made with espresso and cold milk, served over ice for a refreshing coffee experience.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 28,
+        "name": "Iced Mocha",
+        "quantity": 210,
+        "price": 4.50,
+        "description": "Iced Mocha is a cold coffee drink made with espresso, cold milk, and chocolate syrup, served over ice and topped with whipped cream.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 29,
+        "name": "Iced Americano",
+        "quantity": 230,
+        "price": 3.70,
+        "description": "Iced Americano is a simple and refreshing coffee drink made by diluting espresso with cold water and serving it over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 30,
+        "name": "Iced Cappuccino",
+        "quantity": 200,
+        "price": 4.00,
+        "description": "Iced Cappuccino is a chilled version of the classic cappuccino, made with espresso, cold milk, and milk foam, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 31,
+        "name": "Iced Chai Latte",
+        "quantity": 210,
+        "price": 4.60,
+        "description": "Iced Chai Latte is made with spiced tea concentrate and cold milk, served over ice for a refreshing and flavorful drink.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 32,
+        "name": "Iced Matcha Latte",
+        "quantity": 190,
+        "price": 4.80,
+        "description": "Iced Matcha Latte is made with matcha green tea powder, cold milk, and ice, offering a vibrant and refreshing drink.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 33,
+        "name": "Iced Caramel Macchiato",
+        "quantity": 180,
+        "price": 4.70,
+        "description": "Iced Caramel Macchiato is made with espresso, cold milk, vanilla syrup, and caramel drizzle, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 34,
+        "name": "Iced Flat White",
+        "quantity": 220,
+        "price": 4.40,
+        "description": "Iced Flat White is a smooth and velvety coffee drink made with espresso and cold microfoam milk, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 35,
+        "name": "Lemonade",
+        "quantity": 300,
+        "price": 3.50,
+        "description": "Lemonade is a classic summer drink made with freshly squeezed lemon juice, sugar, and water, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 36,
+        "name": "Iced Green Tea",
+        "quantity": 250,
+        "price": 3.20,
+        "description": "Iced Green Tea is a refreshing and light drink made with brewed green tea and served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 37,
+        "name": "Iced Black Tea",
+        "quantity": 240,
+        "price": 3.00,
+        "description": "Iced Black Tea is a robust and flavorful drink made with brewed black tea and served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 38,
+        "name": "Iced Herbal Tea",
+        "quantity": 260,
+        "price": 3.70,
+        "description": "Iced Herbal Tea is a refreshing non-caffeinated drink made with herbal tea and served over ice. We offer flavors like hibiscus, peppermint, and chamomile.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 39,
+        "name": "Iced Vanilla Latte",
+        "quantity": 210,
+        "price": 4.40,
+        "description": "Iced Vanilla Latte is made with espresso, cold milk, and vanilla syrup, served over ice for a sweet and creamy drink.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 40,
+        "name": "Iced Coffee",
+        "quantity": 280,
+        "price": 3.50,
+        "description": "Iced Coffee is a simple and classic drink made by brewing coffee and chilling it before serving over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 41,
+        "name": "Coconut Water",
+        "quantity": 320,
+        "price": 3.60,
+        "description": "Coconut Water is a hydrating and naturally sweet drink, perfect for a refreshing treat on a hot day.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 42,
+        "name": "Arnold Palmer",
+        "quantity": 200,
+        "price": 3.50,
+        "description": "Arnold Palmer is a refreshing drink made by mixing lemonade and iced tea, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 43,
+        "name": "Berry Smoothie",
+        "quantity": 180,
+        "price": 4.60,
+        "description": "Berry Smoothie is made with a blend of mixed berries, yogurt, and juice, creating a sweet and tart drink.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 44,
+        "name": "Mango Smoothie",
+        "quantity": 200,
+        "price": 4.60,
+        "description": "Mango Smoothie is made with fresh mango, yogurt, and juice, blended to create a creamy and tropical drink.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 45,
+        "name": "Peach Iced Tea",
+        "quantity": 230,
+        "price": 3.80,
+        "description": "Peach Iced Tea is a sweet and fruity drink made with brewed tea and peach syrup, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 46,
+        "name": "Watermelon Juice",
+        "quantity": 270,
+        "price": 3.90,
+        "description": "Watermelon Juice is a refreshing and hydrating drink made with freshly blended watermelon, perfect for hot days.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 47,
+        "name": "Iced Macchiato",
+        "quantity": 190,
+        "price": 4.30,
+        "description": "Iced Macchiato is a strong coffee drink made with espresso and a small amount of cold milk, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 48,
+        "name": "Tonic Espresso",
+        "quantity": 160,
+        "price": 4.50,
+        "description": "Tonic Espresso is a refreshing and unique drink made with espresso and tonic water, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 49,
+        "name": "Lime Soda",
+        "quantity": 300,
+        "price": 3.30,
+        "description": "Lime Soda is a fizzy and tangy drink made with fresh lime juice, soda water, and a touch of sugar, served over ice.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 50,
+        "name": "Iced White Mocha",
+        "quantity": 190,
+        "price": 4.80,
+        "description": "Iced White Mocha is a cold coffee drink made with espresso, cold milk, and white chocolate syrup, served over ice and topped with whipped cream.",
+        "category": "cold_drinks"
+      },
+      {
+        "id": 51,
+        "name": "Croissant",
+        "quantity": 150,
+        "price": 3.20,
+        "description": "A classic buttery and flaky French pastry, perfect for pairing with coffee.",
+        "category": "pastries"
+      },
+      {
+        "id": 52,
+        "name": "Chocolate Croissant",
+        "quantity": 130,
+        "price": 3.50,
+        "description": "A rich and indulgent croissant filled with chocolate, perfect for a sweet treat.",
+        "category": "pastries"
+      },
+      {
+        "id": 53,
+        "name": "Blueberry Muffin",
+        "quantity": 140,
+        "price": 2.80,
+        "description": "A moist and fluffy muffin loaded with fresh blueberries, a perfect breakfast or snack.",
+        "category": "pastries"
+      },
+      {
+        "id": 54,
+        "name": "Almond Croissant",
+        "quantity": 120,
+        "price": 3.70,
+        "description": "A croissant filled with almond paste and topped with sliced almonds, offering a sweet and nutty flavor.",
+        "category": "pastries"
+      },
+      {
+        "id": 55,
+        "name": "Cinnamon Roll",
+        "quantity": 110,
+        "price": 3.80,
+        "description": "A soft and sweet roll filled with cinnamon and sugar, topped with cream cheese icing.",
+        "category": "pastries"
+      },
+      {
+        "id": 56,
+        "name": "Apple Turnover",
+        "quantity": 100,
+        "price": 3.40,
+        "description": "A flaky pastry filled with spiced apple filling, perfect for a warm and comforting treat.",
+        "category": "pastries"
+      },
+      {
+        "id": 57,
+        "name": "Chocolate Chip Muffin",
+        "quantity": 130,
+        "price": 2.90,
+        "description": "A moist and fluffy muffin filled with chocolate chips, ideal for chocolate lovers.",
+        "category": "pastries"
+      },
+      {
+        "id": 58,
+        "name": "Banana Bread",
+        "quantity": 90,
+        "price": 3.20,
+        "description": "A rich and moist bread made with ripe bananas, perfect for a quick snack or breakfast.",
+        "category": "pastries"
+      },
+      {
+        "id": 59,
+        "name": "Raspberry Danish",
+        "quantity": 80,
+        "price": 3.50,
+        "description": "A flaky pastry topped with raspberry jam and drizzled with icing, offering a sweet and tangy flavor.",
+        "category": "pastries"
+      },
+      {
+        "id": 60,
+        "name": "Lemon Poppy Seed Muffin",
+        "quantity": 110,
+        "price": 3.00,
+        "description": "A light and zesty muffin made with fresh lemon juice and poppy seeds, perfect for a refreshing treat.",
+        "category": "pastries"
+      },
+      {
+        "id": 61,
+        "name": "Scone",
+        "quantity": 100,
+        "price": 2.80,
+        "description": "A classic British pastry that is slightly sweet and crumbly, often served with jam and cream.",
+        "category": "pastries"
+      },
+      {
+        "id": 62,
+        "name": "Pumpkin Bread",
+        "quantity": 90,
+        "price": 3.20,
+        "description": "A spiced and moist bread made with pumpkin puree, perfect for autumn or anytime you want a cozy treat.",
+        "category": "pastries"
+      },
+      {
+        "id": 63,
+        "name": "Cheese Danish",
+        "quantity": 85,
+        "price": 3.50,
+        "description": "A rich and creamy Danish pastry filled with sweetened cream cheese and topped with a light glaze.",
+        "category": "pastries"
+      },
+      {
+        "id": 64,
+        "name": "Strawberry Tart",
+        "quantity": 75,
+        "price": 4.00,
+        "description": "A buttery tart crust filled with pastry cream and topped with fresh strawberries, offering a sweet and fruity flavor.",
+        "category": "pastries"
+      },
+      {
+        "id": 65,
+        "name": "Chocolate Eclair",
+        "quantity": 70,
+        "price": 3.80,
+        "description": "A light pastry filled with creamy custard and topped with a rich chocolate glaze, perfect for a decadent treat.",
+        "category": "pastries"
+      },
+      {
+        "id": 66,
+        "name": "Baklava",
+        "quantity": 60,
+        "price": 4.50,
+        "description": "A rich and sweet pastry made of layers of filo filled with chopped nuts and sweetened with honey, offering a taste of the Mediterranean.",
+        "category": "pastries"
+      },
+      {
+        "id": 67,
+        "name": "Red Velvet Cupcake",
+        "quantity": 90,
+        "price": 3.30,
+        "description": "A classic cupcake with a hint of cocoa and a vibrant red color, topped with cream cheese frosting.",
+        "category": "pastries"
+      },
+      {
+        "id": 68,
+        "name": "Macaron",
+        "quantity": 150,
+        "price": 2.00,
+        "description": "A delicate French pastry made with almond flour and filled with flavored ganache, available in a variety of flavors.",
+        "category": "pastries"
+      },
+      {
+        "id": 69,
+        "name": "Lemon Bar",
+        "quantity": 75,
+        "price": 3.00,
+        "description": "A tart and sweet dessert bar made with a buttery shortbread crust and a lemony filling, dusted with powdered sugar.",
+        "category": "pastries"
+      },
+      {
+        "id": 70,
+        "name": "Coconut Macaroon",
+        "quantity": 80,
+        "price": 2.50,
+        "description": "A sweet and chewy treat made with shredded coconut, often dipped in chocolate.",
+        "category": "pastries"
+      },
+      {
+        "id": 71,
+        "name": "Opera Cake",
+        "quantity": 60,
+        "price": 4.80,
+        "description": "A French dessert made with layers of almond sponge cake soaked in coffee syrup, layered with ganache and coffee buttercream, and topped with a chocolate glaze.",
+        "category": "pastries"
+      },
+      {
+        "id": 72,
+        "name": "Pecan Pie Bar",
+        "quantity": 70,
+        "price": 3.80,
+        "description": "A sweet and nutty bar made with a buttery shortbread crust and topped with a rich pecan filling.",
+        "category": "pastries"
+      },
+      {
+        "id": 73,
+        "name": "Vanilla Bean Scone",
+        "quantity": 90,
+        "price": 2.90,
+        "description": "A tender and slightly sweet scone infused with vanilla bean, perfect for pairing with tea.",
+        "category": "pastries"
+      },
+      {
+        "id": 74,
+        "name": "Chocolate Brownie",
+        "quantity": 80,
+        "price": 3.20,
+        "description": "A rich and fudgy brownie made with dark chocolate, perfect for satisfying a sweet tooth.",
+        "category": "pastries"
+      },
+      {
+        "id": 75,
+        "name": "Peach Cobbler",
+        "quantity": 70,
+        "price": 3.90,
+        "description": "A warm and comforting dessert made with sweet peaches and a buttery biscuit topping, perfect for a cozy treat.",
+        "category": "pastries"
+      },
+      {
+        "id": 76,
+        "name": "Turkey Club Sandwich",
+        "quantity": 90,
+        "price": 6.50,
+        "description": "A classic sandwich made with roasted turkey, bacon, lettuce, tomato, and mayo on toasted bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 77,
+        "name": "Ham and Cheese Sandwich",
+        "quantity": 100,
+        "price": 5.50,
+        "description": "A simple and satisfying sandwich made with ham, cheese, lettuce, and mustard on whole grain bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 78,
+        "name": "Chicken Caesar Wrap",
+        "quantity": 80,
+        "price": 6.80,
+        "description": "A wrap filled with grilled chicken, romaine lettuce, Caesar dressing, and Parmesan cheese, wrapped in a soft tortilla.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 79,
+        "name": "Caprese Sandwich",
+        "quantity": 70,
+        "price": 6.00,
+        "description": "A fresh and flavorful sandwich made with mozzarella, tomatoes, basil, and balsamic glaze on ciabatta bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 80,
+        "name": "BLT Sandwich",
+        "quantity": 90,
+        "price": 5.80,
+        "description": "A classic sandwich made with crispy bacon, lettuce, tomato, and mayo on toasted bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 81,
+        "name": "Grilled Cheese Sandwich",
+        "quantity": 110,
+        "price": 4.50,
+        "description": "A comforting and cheesy sandwich made with melted cheese on toasted bread, perfect for pairing with soup.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 82,
+        "name": "Roast Beef Sandwich",
+        "quantity": 85,
+        "price": 6.70,
+        "description": "A hearty sandwich made with thinly sliced roast beef, cheddar cheese, horseradish mayo, and arugula on a ciabatta roll.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 83,
+        "name": "Tuna Salad Sandwich",
+        "quantity": 90,
+        "price": 5.90,
+        "description": "A classic sandwich made with tuna salad, lettuce, and tomato on whole wheat bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 84,
+        "name": "Chicken Pesto Panini",
+        "quantity": 70,
+        "price": 7.00,
+        "description": "A warm and savory panini made with grilled chicken, pesto, mozzarella, and sun-dried tomatoes on focaccia bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 85,
+        "name": "Egg Salad Sandwich",
+        "quantity": 100,
+        "price": 5.20,
+        "description": "A simple and creamy sandwich made with egg salad, lettuce, and chives on soft white bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 86,
+        "name": "Veggie Hummus Wrap",
+        "quantity": 80,
+        "price": 6.50,
+        "description": "A healthy and flavorful wrap made with hummus, roasted vegetables, spinach, and feta cheese in a whole wheat tortilla.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 87,
+        "name": "Italian Sub",
+        "quantity": 90,
+        "price": 6.80,
+        "description": "A hearty sandwich made with salami, ham, provolone, lettuce, tomato, onion, and Italian dressing on a sub roll.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 88,
+        "name": "Pulled Pork Sandwich",
+        "quantity": 75,
+        "price": 7.20,
+        "description": "A savory sandwich made with slow-cooked pulled pork, barbecue sauce, and coleslaw on a brioche bun.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 89,
+        "name": "Avocado Toast",
+        "quantity": 110,
+        "price": 5.60,
+        "description": "A trendy and nutritious option made with mashed avocado, cherry tomatoes, and a sprinkle of chili flakes on whole grain toast.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 90,
+        "name": "Philly Cheesesteak",
+        "quantity": 70,
+        "price": 7.50,
+        "description": "A classic sandwich made with thinly sliced beef, sautéed onions, peppers, and melted cheese on a hoagie roll.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 91,
+        "name": "Falafel Wrap",
+        "quantity": 80,
+        "price": 6.30,
+        "description": "A flavorful wrap made with crispy falafel, tahini sauce, lettuce, tomato, and cucumber in a pita wrap.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 92,
+        "name": "Turkey Cranberry Sandwich",
+        "quantity": 85,
+        "price": 6.70,
+        "description": "A seasonal favorite made with roasted turkey, cranberry sauce, and stuffing on multigrain bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 93,
+        "name": "BBQ Chicken Sandwich",
+        "quantity": 90,
+        "price": 6.80,
+        "description": "A tangy and sweet sandwich made with grilled chicken, barbecue sauce, and pickles on a toasted bun.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 94,
+        "name": "Mozzarella and Tomato Panini",
+        "quantity": 85,
+        "price": 6.40,
+        "description": "A vegetarian option made with fresh mozzarella, tomato, basil, and balsamic glaze pressed on ciabatta bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 95,
+        "name": "Smoked Salmon Bagel",
+        "quantity": 75,
+        "price": 7.00,
+        "description": "A classic bagel sandwich made with smoked salmon, cream cheese, red onion, and capers on a toasted bagel.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 96,
+        "name": "Mediterranean Veggie Sandwich",
+        "quantity": 80,
+        "price": 6.50,
+        "description": "A fresh and healthy sandwich made with hummus, cucumber, tomato, red onion, feta, and spinach on whole wheat bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 97,
+        "name": "Egg and Bacon Sandwich",
+        "quantity": 95,
+        "price": 5.90,
+        "description": "A classic breakfast sandwich made with scrambled eggs, crispy bacon, and cheddar cheese on an English muffin.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 98,
+        "name": "Cuban Sandwich",
+        "quantity": 70,
+        "price": 7.20,
+        "description": "A savory sandwich made with roasted pork, ham, Swiss cheese, pickles, and mustard on Cuban bread.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 99,
+        "name": "Shrimp Po' Boy",
+        "quantity": 65,
+        "price": 7.80,
+        "description": "A New Orleans classic made with fried shrimp, lettuce, tomato, and remoulade sauce on a French roll.",
+        "category": "sandwiches"
+      },
+      {
+        "id": 100,
+        "name": "Steak Sandwich",
+        "quantity": 75,
+        "price": 7.50,
+        "description": "A hearty sandwich made with grilled steak, caramelized onions, arugula, and blue cheese on a baguette.",
+        "category": "sandwiches"
+      }
   ]
 }
