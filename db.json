@@ -7,7 +7,7 @@
         "price": 3.50,
         "description": "Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfFKfPgUjK7ilIshfTISZ6NTU3VBTHayX7Q&s"
       },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "price": 4.00,
         "description": "Americano is made by mixing espresso with hot water, offering a milder flavor compared to pure espresso.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rV-7uyDLaBzCw_FRlHg_-aodXS0aMTmlWw&s"
       },
       {
         "id": 3,
@@ -25,7 +25,7 @@
         "price": 4.50,
         "description": "Latte is a coffee drink made with espresso and steamed milk, offering a creamy and mild flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzISHZa3e4ri5b91n6tArODpysFQx-TTvrA&s"
       },
       {
         "id": 4,
@@ -34,7 +34,7 @@
         "price": 4.20,
         "description": "A cappuccino consists of equal parts espresso, steamed milk, and milk foam, often topped with cocoa powder.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1Ai7FfBRe_kD-07yHYZsf79ea9gOQ_fKlg&s"
       },
       {
         "id": 5,
@@ -43,7 +43,7 @@
         "price": 4.10,
         "description": "Café au Lait is made with brewed coffee and steamed milk, offering a smooth and mild flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQREYZGxAZkMtbGwAaeil5qnWk3OzvhJt79_g&s"
       },
       {
         "id": 6,
@@ -52,7 +52,7 @@
         "price": 3.90,
         "description": "Mocha combines espresso, steamed milk, and chocolate syrup, topped with milk foam or whipped cream.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQVjRZAdUDc55ju96p0MNAeUl2rowLH24eQ&s"
       },
       {
         "id": 7,
@@ -61,7 +61,7 @@
         "price": 4.10,
         "description": "Macchiato is made with espresso and a small amount of steamed milk, offering a strong and creamy flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAdFhim54Fmhv2yGmaLYW0Ahy5JySTkgVeA&s"
       },
       {
         "id": 8,
@@ -70,7 +70,7 @@
         "price": 4.30,
         "description": "Affogato is made by pouring hot espresso over vanilla ice cream, creating a delicious dessert drink.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6sTaDQrX3fCXgrEpCkqmzAyzxbKfspEGSA&s"
       },
       {
         "id": 9,
@@ -79,7 +79,7 @@
         "price": 4.70,
         "description": "Hot Chocolate is made with steamed milk and chocolate, topped with whipped cream and chocolate sprinkles.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMW-k3lXA401GaGAsq5SZK6wjcZOxOF9IpPg&s"
       },
       {
         "id": 10,
@@ -88,7 +88,7 @@
         "price": 3.00,
         "description": "Hot Tea is available in a variety of flavors, including black, green, and herbal options.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-Vsspl4c64aLUhBIC_5DPxRApgsB67cXcQ&s"
       },
       {
         "id": 11,
@@ -97,7 +97,7 @@
         "price": 3.70,
         "description": "Herbal Tea offers a range of soothing flavors such as chamomile, peppermint, and ginger.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDAr6A_dPvlRK9tBcR0JKLvtzv78rW_4MBg&s"
       },
       {
         "id": 12,
@@ -106,7 +106,7 @@
         "price": 4.40,
         "description": "Flat White is made with espresso and microfoam, offering a rich, velvety texture.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0mowwGNsj3FM2qBXrG_puB0M8DFkWfVbvCg&s"
       },
       {
         "id": 13,
@@ -115,7 +115,7 @@
         "price": 5.00,
         "description": "Irish Coffee is a cocktail made with hot coffee, Irish whiskey, sugar, and topped with cream.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6UZOucrKg3_y6sxIpuQj9DT7JKI15x_F2Q&s"
       },
       {
         "id": 14,
@@ -124,7 +124,7 @@
         "price": 3.50,
         "description": "Ristretto is a short shot of espresso made with less water, offering a sweeter and more intense flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2ZJRLI3-CmHISGdjMfqt957vLiHDslp1Qw&s"
       },
       {
         "id": 15,
@@ -133,7 +133,7 @@
         "price": 4.00,
         "description": "Cortado is a beverage made with equal parts espresso and warm milk, reducing acidity and enhancing the coffee's flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3phaGXY6RmZkyTx4VD6GftMI9HSQRF8dog&s"
       },
       {
         "id": 16,
@@ -142,7 +142,7 @@
         "price": 4.10,
         "description": "Turkish Coffee is a strong, thick coffee made by boiling finely ground coffee beans in water and sugar.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw640VOqOJZZleN2LzwIj_dosUQ9Lz_jNHQA&s"
       },
       {
         "id": 17,
@@ -151,7 +151,7 @@
         "price": 4.60,
         "description": "Vienna Coffee is made with strong black coffee and whipped cream, offering a rich and creamy experience.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGFrXQoK56Nz0taxkztXh6aeGmFeht8pi1Q&s"
       },
       {
         "id": 18,
