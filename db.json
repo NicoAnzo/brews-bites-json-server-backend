@@ -6,7 +6,7 @@
         "quantity": 320,
         "price": 3.50,
         "description": "Espresso is a shot of concentrated coffee made by applying high pressure to boiling water to pass through finely-ground coffee beans.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -15,7 +15,7 @@
         "quantity": 130,
         "price": 4.00,
         "description": "Americano is made by mixing espresso with hot water, offering a milder flavor compared to pure espresso.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -24,7 +24,7 @@
         "quantity": 180,
         "price": 4.50,
         "description": "Latte is a coffee drink made with espresso and steamed milk, offering a creamy and mild flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -33,7 +33,7 @@
         "quantity": 200,
         "price": 4.20,
         "description": "A cappuccino consists of equal parts espresso, steamed milk, and milk foam, often topped with cocoa powder.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -42,7 +42,7 @@
         "quantity": 300,
         "price": 4.10,
         "description": "Café au Lait is made with brewed coffee and steamed milk, offering a smooth and mild flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -51,7 +51,7 @@
         "quantity": 180,
         "price": 3.90,
         "description": "Mocha combines espresso, steamed milk, and chocolate syrup, topped with milk foam or whipped cream.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -60,7 +60,7 @@
         "quantity": 210,
         "price": 4.10,
         "description": "Macchiato is made with espresso and a small amount of steamed milk, offering a strong and creamy flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -69,7 +69,7 @@
         "quantity": 170,
         "price": 4.30,
         "description": "Affogato is made by pouring hot espresso over vanilla ice cream, creating a delicious dessert drink.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -78,7 +78,7 @@
         "quantity": 250,
         "price": 4.70,
         "description": "Hot Chocolate is made with steamed milk and chocolate, topped with whipped cream and chocolate sprinkles.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -87,7 +87,7 @@
         "quantity": 330,
         "price": 3.00,
         "description": "Hot Tea is available in a variety of flavors, including black, green, and herbal options.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -96,7 +96,7 @@
         "quantity": 350,
         "price": 3.70,
         "description": "Herbal Tea offers a range of soothing flavors such as chamomile, peppermint, and ginger.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -105,7 +105,7 @@
         "quantity": 200,
         "price": 4.40,
         "description": "Flat White is made with espresso and microfoam, offering a rich, velvety texture.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -114,7 +114,7 @@
         "quantity": 100,
         "price": 5.00,
         "description": "Irish Coffee is a cocktail made with hot coffee, Irish whiskey, sugar, and topped with cream.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -123,7 +123,7 @@
         "quantity": 240,
         "price": 3.50,
         "description": "Ristretto is a short shot of espresso made with less water, offering a sweeter and more intense flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -132,7 +132,7 @@
         "quantity": 230,
         "price": 4.00,
         "description": "Cortado is a beverage made with equal parts espresso and warm milk, reducing acidity and enhancing the coffee's flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -141,7 +141,7 @@
         "quantity": 120,
         "price": 4.10,
         "description": "Turkish Coffee is a strong, thick coffee made by boiling finely ground coffee beans in water and sugar.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -150,7 +150,7 @@
         "quantity": 140,
         "price": 4.60,
         "description": "Vienna Coffee is made with strong black coffee and whipped cream, offering a rich and creamy experience.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -159,7 +159,7 @@
         "quantity": 160,
         "price": 3.80,
         "description": "Espresso Con Panna is a shot of espresso topped with a dollop of whipped cream, balancing the strong coffee with creamy sweetness.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -168,7 +168,7 @@
         "quantity": 150,
         "price": 4.50,
         "description": "Caramel Macchiato is made with espresso, steamed milk, and caramel syrup, topped with milk foam and caramel drizzle.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -177,7 +177,7 @@
         "quantity": 190,
         "price": 4.80,
         "description": "Matcha Latte is made with matcha green tea powder, steamed milk, and a touch of sweetener, offering a vibrant and earthy flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -186,7 +186,7 @@
         "quantity": 210,
         "price": 4.40,
         "description": "Chai Latte is made with spiced tea concentrate and steamed milk, offering a warm and spicy flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -195,7 +195,7 @@
         "quantity": 130,
         "price": 4.70,
         "description": "Café Bombón is a Spanish coffee drink made with espresso and sweetened condensed milk, creating a rich and sweet flavor.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -204,7 +204,7 @@
         "quantity": 180,
         "price": 3.90,
         "description": "Doppio is a double shot of espresso, offering a stronger and more intense coffee experience.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -213,7 +213,7 @@
         "quantity": 170,
         "price": 4.20,
         "description": "Red Eye is a coffee drink made by combining a shot of espresso with brewed coffee, offering an extra caffeine kick.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -222,7 +222,7 @@
         "quantity": 160,
         "price": 4.70,
         "description": "Mocha Macchiato is made with espresso, steamed milk, and chocolate syrup, topped with milk foam and a drizzle of chocolate.",
-        "category": "hot_drinks",
+        "category": "hot drinks",
         "image": ""
       },
       {
@@ -231,7 +231,7 @@
         "quantity": 250,
         "price": 3.80,
         "description": "Cold brew coffee is made by steeping coarsely ground coffee beans in cold water for an extended period, resulting in a smooth, less acidic beverage.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -240,7 +240,7 @@
         "quantity": 220,
         "price": 4.20,
         "description": "Iced Latte is made with espresso and cold milk, served over ice for a refreshing coffee experience.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -249,7 +249,7 @@
         "quantity": 210,
         "price": 4.50,
         "description": "Iced Mocha is a cold coffee drink made with espresso, cold milk, and chocolate syrup, served over ice and topped with whipped cream.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -258,7 +258,7 @@
         "quantity": 230,
         "price": 3.70,
         "description": "Iced Americano is a simple and refreshing coffee drink made by diluting espresso with cold water and serving it over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -267,7 +267,7 @@
         "quantity": 200,
         "price": 4.00,
         "description": "Iced Cappuccino is a chilled version of the classic cappuccino, made with espresso, cold milk, and milk foam, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -276,7 +276,7 @@
         "quantity": 210,
         "price": 4.60,
         "description": "Iced Chai Latte is made with spiced tea concentrate and cold milk, served over ice for a refreshing and flavorful drink.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -285,7 +285,7 @@
         "quantity": 190,
         "price": 4.80,
         "description": "Iced Matcha Latte is made with matcha green tea powder, cold milk, and ice, offering a vibrant and refreshing drink.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -294,7 +294,7 @@
         "quantity": 180,
         "price": 4.70,
         "description": "Iced Caramel Macchiato is made with espresso, cold milk, vanilla syrup, and caramel drizzle, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -303,7 +303,7 @@
         "quantity": 220,
         "price": 4.40,
         "description": "Iced Flat White is a smooth and velvety coffee drink made with espresso and cold microfoam milk, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -312,7 +312,7 @@
         "quantity": 300,
         "price": 3.50,
         "description": "Lemonade is a classic summer drink made with freshly squeezed lemon juice, sugar, and water, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -321,7 +321,7 @@
         "quantity": 250,
         "price": 3.20,
         "description": "Iced Green Tea is a refreshing and light drink made with brewed green tea and served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -330,7 +330,7 @@
         "quantity": 240,
         "price": 3.00,
         "description": "Iced Black Tea is a robust and flavorful drink made with brewed black tea and served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -339,7 +339,7 @@
         "quantity": 260,
         "price": 3.70,
         "description": "Iced Herbal Tea is a refreshing non-caffeinated drink made with herbal tea and served over ice. We offer flavors like hibiscus, peppermint, and chamomile.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -348,7 +348,7 @@
         "quantity": 210,
         "price": 4.40,
         "description": "Iced Vanilla Latte is made with espresso, cold milk, and vanilla syrup, served over ice for a sweet and creamy drink.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -357,7 +357,7 @@
         "quantity": 280,
         "price": 3.50,
         "description": "Iced Coffee is a simple and classic drink made by brewing coffee and chilling it before serving over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -366,7 +366,7 @@
         "quantity": 320,
         "price": 3.60,
         "description": "Coconut Water is a hydrating and naturally sweet drink, perfect for a refreshing treat on a hot day.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -375,7 +375,7 @@
         "quantity": 200,
         "price": 3.50,
         "description": "Arnold Palmer is a refreshing drink made by mixing lemonade and iced tea, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -384,7 +384,7 @@
         "quantity": 180,
         "price": 4.60,
         "description": "Berry Smoothie is made with a blend of mixed berries, yogurt, and juice, creating a sweet and tart drink.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -393,7 +393,7 @@
         "quantity": 200,
         "price": 4.60,
         "description": "Mango Smoothie is made with fresh mango, yogurt, and juice, blended to create a creamy and tropical drink.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -402,7 +402,7 @@
         "quantity": 230,
         "price": 3.80,
         "description": "Peach Iced Tea is a sweet and fruity drink made with brewed tea and peach syrup, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -411,7 +411,7 @@
         "quantity": 270,
         "price": 3.90,
         "description": "Watermelon Juice is a refreshing and hydrating drink made with freshly blended watermelon, perfect for hot days.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -420,7 +420,7 @@
         "quantity": 190,
         "price": 4.30,
         "description": "Iced Macchiato is a strong coffee drink made with espresso and a small amount of cold milk, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -429,7 +429,7 @@
         "quantity": 160,
         "price": 4.50,
         "description": "Tonic Espresso is a refreshing and unique drink made with espresso and tonic water, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -438,7 +438,7 @@
         "quantity": 300,
         "price": 3.30,
         "description": "Lime Soda is a fizzy and tangy drink made with fresh lime juice, soda water, and a touch of sugar, served over ice.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
@@ -447,7 +447,7 @@
         "quantity": 190,
         "price": 4.80,
         "description": "Iced White Mocha is a cold coffee drink made with espresso, cold milk, and white chocolate syrup, served over ice and topped with whipped cream.",
-        "category": "cold_drinks",
+        "category": "cold drinks",
         "image": ""
       },
       {
