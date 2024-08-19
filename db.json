@@ -160,7 +160,7 @@
         "price": 3.80,
         "description": "Espresso Con Panna is a shot of espresso topped with a dollop of whipped cream, balancing the strong coffee with creamy sweetness.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlBzST_gSdEbOI0d_yUJPJ6Qf9pMkp1urYQ&s"
       },
       {
         "id": 19,
@@ -169,7 +169,7 @@
         "price": 4.50,
         "description": "Caramel Macchiato is made with espresso, steamed milk, and caramel syrup, topped with milk foam and caramel drizzle.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-ycSkC9nWSLJ5sCd1jxpvd3Z8yDqBWR4hA&s"
       },
       {
         "id": 20,
@@ -178,7 +178,7 @@
         "price": 4.80,
         "description": "Matcha Latte is made with matcha green tea powder, steamed milk, and a touch of sweetener, offering a vibrant and earthy flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrynhzxpq2hIx1c10A3glAqIrUn2b5RkpWNg&s"
       },
       {
         "id": 21,
@@ -187,7 +187,7 @@
         "price": 4.40,
         "description": "Chai Latte is made with spiced tea concentrate and steamed milk, offering a warm and spicy flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92QNizYguDflmCDq8XzFi2JMV7ru5_7cK0w&s"
       },
       {
         "id": 22,
@@ -196,7 +196,7 @@
         "price": 4.70,
         "description": "Café Bombón is a Spanish coffee drink made with espresso and sweetened condensed milk, creating a rich and sweet flavor.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IqfOmppGWOaRm6j63AhzmxK88rnwmuQ0Jw&s"
       },
       {
         "id": 23,
@@ -205,7 +205,7 @@
         "price": 3.90,
         "description": "Doppio is a double shot of espresso, offering a stronger and more intense coffee experience.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQD1Xc1pcfpBYCjiYXM4v4JbqONM4QnuMTSg&s"
       },
       {
         "id": 24,
@@ -214,7 +214,7 @@
         "price": 4.20,
         "description": "Red Eye is a coffee drink made by combining a shot of espresso with brewed coffee, offering an extra caffeine kick.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdGkjAKJ1Cav8iZ2bi-uf8ZD72vcMel0EXA&s"
       },
       {
         "id": 25,
@@ -223,7 +223,7 @@
         "price": 4.70,
         "description": "Mocha Macchiato is made with espresso, steamed milk, and chocolate syrup, topped with milk foam and a drizzle of chocolate.",
         "category": "hot drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2pF_UAnWK1Www9VeqX7bdQIjq4YVgPnnFQ&s"
       },
       {
         "id": 26,
@@ -232,7 +232,7 @@
         "price": 3.80,
         "description": "Cold brew coffee is made by steeping coarsely ground coffee beans in cold water for an extended period, resulting in a smooth, less acidic beverage.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkt51w-Ll5ALJwZv0KywydlvjBf0Ns1_H0gQ&s"
       },
       {
         "id": 27,
@@ -241,7 +241,7 @@
         "price": 4.20,
         "description": "Iced Latte is made with espresso and cold milk, served over ice for a refreshing coffee experience.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBkolQqLwLO5hJGN0VD0d614rzdZaa8V4-kw&s"
       },
       {
         "id": 28,
@@ -250,7 +250,7 @@
         "price": 4.50,
         "description": "Iced Mocha is a cold coffee drink made with espresso, cold milk, and chocolate syrup, served over ice and topped with whipped cream.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvMRnE3ceRV7KF1tZc9d8x6LiHY5AQAFyEA&s"
       },
       {
         "id": 29,
@@ -259,7 +259,7 @@
         "price": 3.70,
         "description": "Iced Americano is a simple and refreshing coffee drink made by diluting espresso with cold water and serving it over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJS5V_uhQlRMKze53cDKhn49vTFoguSMqSw&s"
       },
       {
         "id": 30,
@@ -268,7 +268,7 @@
         "price": 4.00,
         "description": "Iced Cappuccino is a chilled version of the classic cappuccino, made with espresso, cold milk, and milk foam, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVYAb9l2oOQ4iRwqARLLwHoTuyZgY9RKT0Q&s"
       },
       {
         "id": 31,
@@ -277,7 +277,7 @@
         "price": 4.60,
         "description": "Iced Chai Latte is made with spiced tea concentrate and cold milk, served over ice for a refreshing and flavorful drink.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkgjNLpCaMCleLImwVq93oVbA_hWRnSRRRA&s"
       },
       {
         "id": 32,
@@ -286,7 +286,7 @@
         "price": 4.80,
         "description": "Iced Matcha Latte is made with matcha green tea powder, cold milk, and ice, offering a vibrant and refreshing drink.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM1qspbeUq-lX-r_G9RUtjCClYMuBsxxaodA&s"
       },
       {
         "id": 33,
@@ -295,7 +295,7 @@
         "price": 4.70,
         "description": "Iced Caramel Macchiato is made with espresso, cold milk, vanilla syrup, and caramel drizzle, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Tnqyr1hf7bjkY_hChmUI5NMOIX155yKs0w&s"
       },
       {
         "id": 34,
@@ -304,7 +304,7 @@
         "price": 4.40,
         "description": "Iced Flat White is a smooth and velvety coffee drink made with espresso and cold microfoam milk, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXbhMpiwBirABqwD4-AmQcTUj-htKGTvtxg&s"
       },
       {
         "id": 35,
@@ -313,7 +313,7 @@
         "price": 3.50,
         "description": "Lemonade is a classic summer drink made with freshly squeezed lemon juice, sugar, and water, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1EUJx0c5o4u_PIOkHjzea9f-uIdyVVyTyfg&s"
       },
       {
         "id": 36,
@@ -322,7 +322,7 @@
         "price": 3.20,
         "description": "Iced Green Tea is a refreshing and light drink made with brewed green tea and served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEmA_2M455wcn2uT78HI638C4Y2CxC0GICA&s"
       },
       {
         "id": 37,
@@ -331,7 +331,7 @@
         "price": 3.00,
         "description": "Iced Black Tea is a robust and flavorful drink made with brewed black tea and served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWlr10KzfI1aPBp3Fcsav09wHAF8PoeZnIUw&s"
       },
       {
         "id": 38,
@@ -340,7 +340,7 @@
         "price": 3.70,
         "description": "Iced Herbal Tea is a refreshing non-caffeinated drink made with herbal tea and served over ice. We offer flavors like hibiscus, peppermint, and chamomile.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLiK8uqpnqNzRa-S4rg2G_zDW8Zliczf3pw&s"
       },
       {
         "id": 39,
@@ -349,7 +349,7 @@
         "price": 4.40,
         "description": "Iced Vanilla Latte is made with espresso, cold milk, and vanilla syrup, served over ice for a sweet and creamy drink.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMgFzZUPP_6CJ0rjcg42gJjrP6Bp4Uhly5NA&s"
       },
       {
         "id": 40,
@@ -358,7 +358,7 @@
         "price": 3.50,
         "description": "Iced Coffee is a simple and classic drink made by brewing coffee and chilling it before serving over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://plus.unsplash.com/premium_photo-1671088575920-09f2a5970574?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SWNlZCUyMENvZmZlZXxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 41,
@@ -367,7 +367,7 @@
         "price": 3.60,
         "description": "Coconut Water is a hydrating and naturally sweet drink, perfect for a refreshing treat on a hot day.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyGt5H8hf3cN6l4RADcADDbKWMfX8Rca-Cg&s"
       },
       {
         "id": 42,
@@ -376,7 +376,7 @@
         "price": 3.50,
         "description": "Arnold Palmer is a refreshing drink made by mixing lemonade and iced tea, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwk48U8lCfb96VZrw-Poep7JOZrTE14g6lLQ&s"
       },
       {
         "id": 43,
@@ -385,7 +385,7 @@
         "price": 4.60,
         "description": "Berry Smoothie is made with a blend of mixed berries, yogurt, and juice, creating a sweet and tart drink.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvLnE2ueb4rA1B-pqrt2DtQDKA2Dz3hxJ0Q&s"
       },
       {
         "id": 44,
@@ -394,7 +394,7 @@
         "price": 4.60,
         "description": "Mango Smoothie is made with fresh mango, yogurt, and juice, blended to create a creamy and tropical drink.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1679310289578-680ff6ad5188?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWFuZ28lMjBTbW9vdGhpZXxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 45,
@@ -403,7 +403,7 @@
         "price": 3.80,
         "description": "Peach Iced Tea is a sweet and fruity drink made with brewed tea and peach syrup, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://plus.unsplash.com/premium_photo-1687977548362-c007bccd893f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UGVhY2glMjBJY2VkJTIwVGVhfGVufDB8fDB8fHww"
       },
       {
         "id": 46,
@@ -412,7 +412,7 @@
         "price": 3.90,
         "description": "Watermelon Juice is a refreshing and hydrating drink made with freshly blended watermelon, perfect for hot days.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFdhdGVybWVsb24lMjBKdWljZXxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 47,
@@ -421,7 +421,7 @@
         "price": 4.30,
         "description": "Iced Macchiato is a strong coffee drink made with espresso and a small amount of cold milk, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SWNlZCUyME1hY2NoaWF0b3xlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 48,
@@ -430,7 +430,7 @@
         "price": 4.50,
         "description": "Tonic Espresso is a refreshing and unique drink made with espresso and tonic water, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1626284790797-fd2467eb7c3d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VG9uaWMlMjBFc3ByZXNzb3xlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 49,
@@ -439,7 +439,7 @@
         "price": 3.30,
         "description": "Lime Soda is a fizzy and tangy drink made with fresh lime juice, soda water, and a touch of sugar, served over ice.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://plus.unsplash.com/premium_photo-1661540515873-0d7c4e07891a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGltZSUyMFNvZGF8ZW58MHx8MHx8fDA%3D"
       },
       {
         "id": 50,
@@ -448,7 +448,7 @@
         "price": 4.80,
         "description": "Iced White Mocha is a cold coffee drink made with espresso, cold milk, and white chocolate syrup, served over ice and topped with whipped cream.",
         "category": "cold drinks",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1642647390911-77934bc6bc33?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SWNlZCUyMFdoaXRlJTIwTW9jaGF8ZW58MHx8MHx8fDA%3D"
       },
       {
         "id": 51,
@@ -457,7 +457,7 @@
         "price": 3.20,
         "description": "A classic buttery and flaky French pastry, perfect for pairing with coffee.",
         "category": "pastries",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1501721358449-1505ca840822?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENyb2lzc2FudHxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 52,
@@ -466,7 +466,7 @@
         "price": 3.50,
         "description": "A rich and indulgent croissant filled with chocolate, perfect for a sweet treat.",
         "category": "pastries",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1597528673850-e27492b0335f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENob2NvbGF0ZSUyMENyb2lzc2FudHxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 53,
@@ -475,7 +475,7 @@
         "price": 2.80,
         "description": "A moist and fluffy muffin loaded with fresh blueberries, a perfect breakfast or snack.",
         "category": "pastries",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1722251172786-68db185b4986?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Qmx1ZWJlcnJ5JTIwTXVmZmlufGVufDB8fDB8fHww"
       },
       {
         "id": 54,
@@ -484,7 +484,7 @@
         "price": 3.70,
         "description": "A croissant filled with almond paste and topped with sliced almonds, offering a sweet and nutty flavor.",
         "category": "pastries",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1503788154-2de5bcf88a09?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEFsbW9uZCUyMENyb2lzc2FudHxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 55,
