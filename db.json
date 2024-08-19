@@ -682,7 +682,7 @@
         "price": 6.50,
         "description": "A classic sandwich made with roasted turkey, bacon, lettuce, tomato, and mayo on toasted bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1655195672061-90c23e3e8026?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VHVya2V5JTIwQ2x1YiUyMFNhbmR3aWNofGVufDB8fDB8fHww"
       },
       {
         "id": 77,
@@ -691,7 +691,7 @@
         "price": 5.50,
         "description": "A simple and satisfying sandwich made with ham, cheese, lettuce, and mustard on whole grain bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://plus.unsplash.com/premium_photo-1664391899815-b82e21b2e27b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEhhbSUyMGFuZCUyMENoZWVzZSUyMFNhbmR3aWNofGVufDB8fDB8fHww"
       },
       {
         "id": 78,
@@ -700,7 +700,7 @@
         "price": 6.80,
         "description": "A wrap filled with grilled chicken, romaine lettuce, Caesar dressing, and Parmesan cheese, wrapped in a soft tortilla.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.pexels.com/photos/27668696/pexels-photo-27668696/free-photo-of-a-sandwich-with-lettuce-and-tomatoes-on-a-wooden-board.jpeg?auto=compress&cs=tinysrgb&w=800"
       },
       {
         "id": 79,
@@ -709,7 +709,7 @@
         "price": 6.00,
         "description": "A fresh and flavorful sandwich made with mozzarella, tomatoes, basil, and balsamic glaze on ciabatta bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.pexels.com/photos/23996593/pexels-photo-23996593/free-photo-of-italian-sandwich-with-tomatoes.jpeg?auto=compress&cs=tinysrgb&w=800"
       },
       {
         "id": 80,
@@ -718,7 +718,7 @@
         "price": 5.80,
         "description": "A classic sandwich made with crispy bacon, lettuce, tomato, and mayo on toasted bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1705537238393-86337520ef8c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QkxUJTIwU2FuZHdpY2h8ZW58MHx8MHx8fDA%3D"
       },
       {
         "id": 81,
@@ -727,7 +727,7 @@
         "price": 4.50,
         "description": "A comforting and cheesy sandwich made with melted cheese on toasted bread, perfect for pairing with soup.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1528736235302-52922df5c122?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8R3JpbGxlZCUyMENoZWVzZSUyMFNhbmR3aWNofGVufDB8fDB8fHww"
       },
       {
         "id": 82,
@@ -736,7 +736,7 @@
         "price": 6.70,
         "description": "A hearty sandwich made with thinly sliced roast beef, cheddar cheese, horseradish mayo, and arugula on a ciabatta roll.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.pexels.com/photos/6608664/pexels-photo-6608664.jpeg?auto=compress&cs=tinysrgb&w=800"
       },
       {
         "id": 83,
@@ -745,7 +745,7 @@
         "price": 5.90,
         "description": "A classic sandwich made with tuna salad, lettuce, and tomato on whole wheat bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://plus.unsplash.com/premium_photo-1695304029561-92db67ceee69?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VHVuYSUyMFNhbGFkJTIwU2FuZHdpY2h8ZW58MHx8MHx8fDA%3D"
       },
       {
         "id": 84,
@@ -754,7 +754,7 @@
         "price": 7.00,
         "description": "A warm and savory panini made with grilled chicken, pesto, mozzarella, and sun-dried tomatoes on focaccia bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV00cB_q0u66jdUgfZpFvMlD6DQaY00_QfKA&s"
       },
       {
         "id": 85,
@@ -763,7 +763,7 @@
         "price": 5.20,
         "description": "A simple and creamy sandwich made with egg salad, lettuce, and chives on soft white bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1469648034646-7911874fe62b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fEVnZyUyMFNhbGFkJTIwU2FuZHdpY2h8ZW58MHx8MHx8fDA%3D"
       },
       {
         "id": 86,
@@ -772,7 +772,7 @@
         "price": 6.50,
         "description": "A healthy and flavorful wrap made with hummus, roasted vegetables, spinach, and feta cheese in a whole wheat tortilla.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.pexels.com/photos/4955267/pexels-photo-4955267.jpeg?auto=compress&cs=tinysrgb&w=800"
       },
       {
         "id": 87,
@@ -781,7 +781,7 @@
         "price": 6.80,
         "description": "A hearty sandwich made with salami, ham, provolone, lettuce, tomato, onion, and Italian dressing on a sub roll.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5IcnASrrI-sIq9OT82N4QRX-rbc0ccnNvQ&s"
       },
       {
         "id": 88,
@@ -790,7 +790,7 @@
         "price": 7.20,
         "description": "A savory sandwich made with slow-cooked pulled pork, barbecue sauce, and coleslaw on a brioche bun.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1709581529998-11b7b2e17f55?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UHVsbGVkJTIwUG9yayUyMFNhbmR3aWNofGVufDB8fDB8fHww"
       },
       {
         "id": 89,
@@ -799,7 +799,7 @@
         "price": 5.60,
         "description": "A trendy and nutritious option made with mashed avocado, cherry tomatoes, and a sprinkle of chili flakes on whole grain toast.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://plus.unsplash.com/premium_photo-1676106623583-e68dd66683e3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QXZvY2FkbyUyMFRvYXN0fGVufDB8fDB8fHww"
       },
       {
         "id": 90,
@@ -808,7 +808,7 @@
         "price": 7.50,
         "description": "A classic sandwich made with thinly sliced beef, sautéed onions, peppers, and melted cheese on a hoagie roll.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMeAYbN13OPuNX1DMV1UXdKLAJPNNvJlaaTg&s"
       },
       {
         "id": 91,
@@ -817,7 +817,7 @@
         "price": 6.30,
         "description": "A flavorful wrap made with crispy falafel, tahini sauce, lettuce, tomato, and cucumber in a pita wrap.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52gbMR5tZfHRr7OLLtGCpfjd0lXnvscKXUQ&s"
       },
       {
         "id": 92,
@@ -826,7 +826,7 @@
         "price": 6.70,
         "description": "A seasonal favorite made with roasted turkey, cranberry sauce, and stuffing on multigrain bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4AGQmLCM451wVIE3mTTQKCYIE-tkFZzjyw&s"
       },
       {
         "id": 93,
@@ -835,7 +835,7 @@
         "price": 6.80,
         "description": "A tangy and sweet sandwich made with grilled chicken, barbecue sauce, and pickles on a toasted bun.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1pUaGOeeXeq9BjHh5W6Eqtuxhrwgt4-UiA&s"
       },
       {
         "id": 94,
@@ -844,7 +844,7 @@
         "price": 6.40,
         "description": "A vegetarian option made with fresh mozzarella, tomato, basil, and balsamic glaze pressed on ciabatta bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://plus.unsplash.com/premium_photo-1700677185839-6c43037e46be?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TW96emFyZWxsYSUyMGFuZCUyMFRvbWF0byUyMFBhbmluaXxlbnwwfHwwfHx8MA%3D%3D"
       },
       {
         "id": 95,
@@ -853,7 +853,7 @@
         "price": 7.00,
         "description": "A classic bagel sandwich made with smoked salmon, cream cheese, red onion, and capers on a toasted bagel.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.pexels.com/photos/3957501/pexels-photo-3957501.jpeg?auto=compress&cs=tinysrgb&w=800"
       },
       {
         "id": 96,
@@ -862,7 +862,7 @@
         "price": 6.50,
         "description": "A fresh and healthy sandwich made with hummus, cucumber, tomato, red onion, feta, and spinach on whole wheat bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.pexels.com/photos/461382/pexels-photo-461382.jpeg?auto=compress&cs=tinysrgb&w=800"
       },
       {
         "id": 97,
@@ -871,7 +871,7 @@
         "price": 5.90,
         "description": "A classic breakfast sandwich made with scrambled eggs, crispy bacon, and cheddar cheese on an English muffin.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.pexels.com/photos/19471395/pexels-photo-19471395/free-photo-of-tangerine-next-to-an-egg-and-bacon-sandwich.jpeg?auto=compress&cs=tinysrgb&w=800"
       },
       {
         "id": 98,
@@ -880,7 +880,7 @@
         "price": 7.20,
         "description": "A savory sandwich made with roasted pork, ham, Swiss cheese, pickles, and mustard on Cuban bread.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnWaxyJhi26B2SgszdBzfHKvgIp47D1CwKg&s"
       },
       {
         "id": 99,
@@ -889,7 +889,7 @@
         "price": 7.80,
         "description": "A New Orleans classic made with fried shrimp, lettuce, tomato, and remoulade sauce on a French roll.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs5F6y4NJdriDJLriFghYG7x6xyEG8qxk_w&s"
       },
       {
         "id": 100,
@@ -898,7 +898,7 @@
         "price": 7.50,
         "description": "A hearty sandwich made with grilled steak, caramelized onions, arugula, and blue cheese on a baguette.",
         "category": "sandwiches",
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1700937314577-898450cafe35?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3RlYWslMjBTYW5kd2ljaHxlbnwwfHwwfHx8MA%3D%3D"
       }
   ]
 }
